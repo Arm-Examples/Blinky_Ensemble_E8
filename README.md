@@ -1,6 +1,6 @@
-# Blinky M55_HE Project
+# Blinky Ensemble E8 Project
 
-The **Blinky M55_HE** project is a simple example project that helps you checking basic tools and hardware setup.
+This **Blinky** project is a simple example that helps you checking basic tools and hardware setup.
 
 ## Project Structure
 
