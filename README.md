@@ -19,6 +19,11 @@ For initial development, use the **PRG USB** port to power the board and to have
 
 When using the J-Link debug adapter (connected to **PRG USB**), ensure that J-Link version 8.44 or higher is installed.
 
+> Note:
+> Currently, the J-Link drivers do not support the E8 family. For support, copy the files from
+> [Alif's VS Code template](https://github.com/alifsemi/alif_vscode-template/tree/main/.alif) to the
+> [JLinkDevices folder](https://kb.segger.com/J-Link_Device_Support_Kit#JLinkDevices_folder).
+
 ## Building the project
 
 In the **CMSIS view**, use the build button (hammer icon) to build the project.
