@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "arm.environment-manager",
+        "arm.cmsis-csolution",
+        "arm.vscode-cmsis-debugger",
+        "ms-vscode.vscode-serial-monitor"
+    ]
+}
+
